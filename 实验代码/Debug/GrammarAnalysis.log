@@ -1,0 +1,4 @@
+﻿  analyze_table.cpp
+C:\Users\catherine-lisa\source\repos\GrammarAnalysis\GrammarAnalysis\analyze_table.cpp(19,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\catherine-lisa\source\repos\GrammarAnalysis\GrammarAnalysis\analyze_table.cpp(117,21): warning C4018: “<”: 有符号/无符号不匹配
+  GrammarAnalysis.vcxproj -> C:\Users\catherine-lisa\source\repos\GrammarAnalysis\Debug\GrammarAnalysis.exe
